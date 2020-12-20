@@ -1,5 +1,5 @@
-# Artic-7-battery-percentage
-Python script to get battery level from Steelseries Artic 7 headset and create and icon in the system tray.
+# Arctis-7-battery-percentage
+Python script to get battery level from Steelseries Arctis 7 headset and create and icon in the system tray.
 
 ### USING
 ```     
