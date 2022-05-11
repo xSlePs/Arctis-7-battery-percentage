@@ -1,8 +1,12 @@
 # Arctis-7-battery-percentage
 Python script to get battery level from Steelseries Arctis 7 headset and create and icon in the system tray. The backgound color of the icon is adapted according to the power level.
+
     - 100 to 50% => Green
+    
     - 49 to 20% => Orange
+    
     - 20 to 0% => Red
+    
 
 When the headset is not connected : 
 
